@@ -1,54 +1,56 @@
 # Hi, I'm Maxx McArthur 👋
 
 Computer Science & Software Engineering student at the University of Washington  
-Focused on backend systems, full-stack development, and low-level software  
-Actively seeking Software Engineering roles
+Focused on backend systems, full-stack development, and low level software  
+Actively seeking Software Engineering roles  
 
 ## About Me
 
-I build practical, performance-focused software systems with experience across backend development, networking, and low-level programming.
+I build practical, performance focused software systems with experience across backend development, networking, and low level programming.
 
-My work includes building real-time multiplayer systems, implementing low-level memory management in ARM assembly, and developing data processing pipelines for computer vision applications. I am especially interested in systems where performance, reliability, and architecture matter.
+My work includes real time multiplayer systems, ARM assembly implementations, and data processing pipelines for computer vision. I am especially interested in systems where performance, reliability, and architecture matter.
 
 ## Tech Stack
 
 Languages  
-C++, C#, Python, JavaScript, SQL, Java, Assembly, Bash  
+C++, C#,  Python, Java, REACT, JavaScript, HTML, CSS, SQL, Assembly, BASH
 
 Tools & Platforms  
-Linux, Docker, Git, GitHub, GCP, Node.js, React  
+Git, GitHub, GCP, Visual Studio Code, Docker, Linux, Lucid, PyCharm, JetBrains, Visual Studios, GitLab
 
 Areas  
 Backend Systems, Networking, Databases, Systems Programming, Full-Stack Development  
 
 ## Featured Projects
 
-### Multiplayer Quiz Platform
-Custom TCP-based game server with Node/Express backend and React frontend supporting real-time multiplayer sessions and state synchronization.
+### [Unity Block Game](https://github.com/MaxxMcArthur/Games)
+Unity based game built in C# focusing on gameplay mechanics and real time interaction.
 
-### ARM Assembly Standard Library
-Implemented memory allocation and system-level functionality in Thumb-2 assembly, focusing on performance, memory layout, and low-level execution.
+### [Tip of the Iceberg](https://github.com/E11aW/tip-of-the-iceberg)
+Interactive climate awareness web application with dynamic UI and data driven features.
 
-### Kymograph Analysis Pipeline
-Built a modular Python pipeline for processing microscopy image data, including filtering, skeletonization, and trajectory analysis.
+### [Kymograph Analysis Pipeline](https://github.com/BrentLagesse/Kymograph-Tool)
+Python based pipeline for processing microscopy image data and extracting motion trajectories from time series data.
 
-### Movie Rental System
-C++ object-oriented system using polymorphism and design patterns to manage inventory, customers, and transaction history.
+### [Multiplayer Quiz Platform (Not Kahoot)](https://github.com/ClaytonMcArthur/not-kahoot)
+Real time multiplayer system using a custom TCP server with Node/Express backend and React frontend.
 
-### Sorting Algorithm Analysis
-Implemented and benchmarked multiple sorting algorithms, comparing runtime behavior across different input conditions.
+### [ARM Thumb-2 Standard Library Implementation](https://github.com/MaxxMcArthur/thumb2-stdlib-implementation)
+Low level systems project implementing memory allocation, system calls, and standard library functionality in ARM assembly.
 
-### Unity Block Game
-Developed a game in Unity using C# focusing on core gameplay mechanics and real-time interaction.
+### [Sorting Algorithms Analysis](https://github.com/MaxxMcArthur/sorting-algorithms-performance)
+C++ implementation and benchmarking of multiple sorting algorithms across varying input sizes and conditions.
+
+### [Elementary School Database](https://github.com/ClaytonMcArthur/Elementary-School-Database)
+Relational database system with backend API for managing structured data and operations.
 
 ## Currently
 
-- Improving backend and systems design skills  
-- Building and refining portfolio projects  
-- Exploring distributed systems and performance-focused engineering  
+- Building and refining backend and systems projects  
+- Exploring distributed systems and performance focused engineering  
+- Preparing for full time software engineering roles  
 
 ## Contact
 
 Email: mlmcarthur05@gmail.com  
 LinkedIn: https://linkedin.com/in/maxx-mcarthur  
-GitHub: https://github.com/MaxxMcArthur
